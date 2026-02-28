@@ -1,1 +1,7 @@
 The changes are made by Diya and Manasa
+this is the new file for changes in git
+hello how are you 
+hello world 
+good morning
+day by day we are learning new things in git and github
+right now i am feeling very happy to learn new things in git and github
